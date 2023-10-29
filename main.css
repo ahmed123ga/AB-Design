@@ -1,0 +1,22 @@
+p {
+    color: white;
+}
+
+section {
+    color: red;
+}
+
+h1 {
+    color: purple;
+}
+
+h2 {
+    color: greenyellow;
+}
+
+body {
+    background-image: url("ab_price.png");
+    background-color: #cccccc;
+    background-size: 110%;
+    background-repeat: no-repeat;
+}
